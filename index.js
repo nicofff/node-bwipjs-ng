@@ -23,38 +23,29 @@ load('bwip.js');
 // Set the hook for demand-loading the remaining bwip-js files
 BWIPJS.load = load;
 
-module.exports.createQR = function (text, callback){
+module.exports.createBarcode = function (data, callback){
+
+    /*data = {
+     text : 'asd',
+     type : 'interleaved2of5',
+     scale : 2,
+     rotate : 'N'
+     }*/
 
     var bw = new BWIPJS;
-    var rot = 'N';
-    var opts= {};
-    opts.inkspread = bw.value(0);
-    opts.alttext = bw.value(text);
-    opts.includetext = bw.value(true);
+    var rot = data.rotate || 'N';
+
+    var opts= {
+        inkspread : bw.value(0),
+        alttext : bw.value(data.text),
+        includetext : bw.value(true)
+    };
 
     bw.bitmap(new Bitmap);
-    bw.scale(1, 1);
-    bw.push(text);
+    bw.scale(data.scale, data.scale);
+    bw.push(data.text);
     bw.push(opts);
-    bw.call("qrcode");
-    var png = bw.bitmap().getPNG(rot);
-    callback(png);
-}
-
-module.exports.createBarcode = function (text, callback){
-
-    var bw = new BWIPJS;
-    var rot = 'N';
-    var opts= {};
-    opts.inkspread = bw.value(0);
-    opts.alttext = bw.value(text);
-    opts.includetext = bw.value(true);
-
-    bw.bitmap(new Bitmap);
-    bw.scale(1, 1);
-    bw.push(text);
-    bw.push(opts);
-    bw.call("interleaved2of5");
+    bw.call(data.type);
     var png = bw.bitmap().getPNG(rot);
     callback(png);
 
