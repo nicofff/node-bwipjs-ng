@@ -1,0 +1,24 @@
+{
+  "name": "node-bwipjs-ng",
+  "version": "0.0.0",
+  "description": "Node module implamentation of bwip-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nicofff/node-bwipjs-ng.git"
+  },
+  "keywords": [
+    "barcode",
+    "qr",
+    "bwipjs"
+  ],
+  "author": "Nicolas Far <contact@nicolasfar.com.ar> (https://www.nicolasfar.com.ar/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicofff/node-bwipjs-ng/issues"
+  },
+  "homepage": "https://github.com/nicofff/node-bwipjs-ng"
+}
