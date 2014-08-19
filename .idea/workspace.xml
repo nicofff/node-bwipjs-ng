@@ -2,125 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47cfd455-f95b-494b-8955-aaffe7e40eba" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bwip-js/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bwip-js/demo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bwip-js/node-bwipjs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bwip-js/node-demo" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/barcode-2013-01-25.ps" afterPath="$PROJECT_DIR$/barcode-2013-01-25.ps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwip.js" afterPath="$PROJECT_DIR$/bwip.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/auspost.js" afterPath="$PROJECT_DIR$/bwipp/auspost.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/azteccode.js" afterPath="$PROJECT_DIR$/bwipp/azteccode.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/bc412.js" afterPath="$PROJECT_DIR$/bwipp/bc412.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/channelcode.js" afterPath="$PROJECT_DIR$/bwipp/channelcode.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/codablockf.js" afterPath="$PROJECT_DIR$/bwipp/codablockf.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/code11.js" afterPath="$PROJECT_DIR$/bwipp/code11.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/code128.js" afterPath="$PROJECT_DIR$/bwipp/code128.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/code16k.js" afterPath="$PROJECT_DIR$/bwipp/code16k.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/code2of5.js" afterPath="$PROJECT_DIR$/bwipp/code2of5.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/code32.js" afterPath="$PROJECT_DIR$/bwipp/code32.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/code39.js" afterPath="$PROJECT_DIR$/bwipp/code39.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/code39ext.js" afterPath="$PROJECT_DIR$/bwipp/code39ext.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/code49.js" afterPath="$PROJECT_DIR$/bwipp/code49.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/code93.js" afterPath="$PROJECT_DIR$/bwipp/code93.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/code93ext.js" afterPath="$PROJECT_DIR$/bwipp/code93ext.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/codeone.js" afterPath="$PROJECT_DIR$/bwipp/codeone.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/daft.js" afterPath="$PROJECT_DIR$/bwipp/daft.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/databarexpanded.js" afterPath="$PROJECT_DIR$/bwipp/databarexpanded.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/databarexpandedcomposite.js" afterPath="$PROJECT_DIR$/bwipp/databarexpandedcomposite.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/databarexpandedstacked.js" afterPath="$PROJECT_DIR$/bwipp/databarexpandedstacked.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/databarexpandedstackedcomposite.js" afterPath="$PROJECT_DIR$/bwipp/databarexpandedstackedcomposite.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/databarlimited.js" afterPath="$PROJECT_DIR$/bwipp/databarlimited.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/databarlimitedcomposite.js" afterPath="$PROJECT_DIR$/bwipp/databarlimitedcomposite.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/databaromni.js" afterPath="$PROJECT_DIR$/bwipp/databaromni.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/databaromnicomposite.js" afterPath="$PROJECT_DIR$/bwipp/databaromnicomposite.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/databarstacked.js" afterPath="$PROJECT_DIR$/bwipp/databarstacked.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/databarstackedcomposite.js" afterPath="$PROJECT_DIR$/bwipp/databarstackedcomposite.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/databarstackedomni.js" afterPath="$PROJECT_DIR$/bwipp/databarstackedomni.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/databarstackedomnicomposite.js" afterPath="$PROJECT_DIR$/bwipp/databarstackedomnicomposite.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/databartruncated.js" afterPath="$PROJECT_DIR$/bwipp/databartruncated.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/databartruncatedcomposite.js" afterPath="$PROJECT_DIR$/bwipp/databartruncatedcomposite.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/datamatrix.js" afterPath="$PROJECT_DIR$/bwipp/datamatrix.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/ean13.js" afterPath="$PROJECT_DIR$/bwipp/ean13.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/ean13composite.js" afterPath="$PROJECT_DIR$/bwipp/ean13composite.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/ean14.js" afterPath="$PROJECT_DIR$/bwipp/ean14.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/ean2.js" afterPath="$PROJECT_DIR$/bwipp/ean2.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/ean5.js" afterPath="$PROJECT_DIR$/bwipp/ean5.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/ean8.js" afterPath="$PROJECT_DIR$/bwipp/ean8.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/ean8composite.js" afterPath="$PROJECT_DIR$/bwipp/ean8composite.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/flattermarken.js" afterPath="$PROJECT_DIR$/bwipp/flattermarken.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/gs1-128.js" afterPath="$PROJECT_DIR$/bwipp/gs1-128.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/gs1-128composite.js" afterPath="$PROJECT_DIR$/bwipp/gs1-128composite.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/gs1-cc.js" afterPath="$PROJECT_DIR$/bwipp/gs1-cc.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/gs1datamatrix.js" afterPath="$PROJECT_DIR$/bwipp/gs1datamatrix.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/hibccodablockf.js" afterPath="$PROJECT_DIR$/bwipp/hibccodablockf.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/hibccode128.js" afterPath="$PROJECT_DIR$/bwipp/hibccode128.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/hibccode39.js" afterPath="$PROJECT_DIR$/bwipp/hibccode39.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/hibcdatamatrix.js" afterPath="$PROJECT_DIR$/bwipp/hibcdatamatrix.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/hibcmicropdf417.js" afterPath="$PROJECT_DIR$/bwipp/hibcmicropdf417.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/hibcpdf417.js" afterPath="$PROJECT_DIR$/bwipp/hibcpdf417.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/hibcqrcode.js" afterPath="$PROJECT_DIR$/bwipp/hibcqrcode.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/identcode.js" afterPath="$PROJECT_DIR$/bwipp/identcode.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/interleaved2of5.js" afterPath="$PROJECT_DIR$/bwipp/interleaved2of5.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/isbn.js" afterPath="$PROJECT_DIR$/bwipp/isbn.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/ismn.js" afterPath="$PROJECT_DIR$/bwipp/ismn.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/issn.js" afterPath="$PROJECT_DIR$/bwipp/issn.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/itf14.js" afterPath="$PROJECT_DIR$/bwipp/itf14.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/japanpost.js" afterPath="$PROJECT_DIR$/bwipp/japanpost.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/kix.js" afterPath="$PROJECT_DIR$/bwipp/kix.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/leitcode.js" afterPath="$PROJECT_DIR$/bwipp/leitcode.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/maxicode.js" afterPath="$PROJECT_DIR$/bwipp/maxicode.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/micropdf417.js" afterPath="$PROJECT_DIR$/bwipp/micropdf417.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/msi.js" afterPath="$PROJECT_DIR$/bwipp/msi.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/onecode.js" afterPath="$PROJECT_DIR$/bwipp/onecode.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/pdf417.js" afterPath="$PROJECT_DIR$/bwipp/pdf417.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/pharmacode.js" afterPath="$PROJECT_DIR$/bwipp/pharmacode.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/pharmacode2.js" afterPath="$PROJECT_DIR$/bwipp/pharmacode2.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/planet.js" afterPath="$PROJECT_DIR$/bwipp/planet.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/plessey.js" afterPath="$PROJECT_DIR$/bwipp/plessey.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/posicode.js" afterPath="$PROJECT_DIR$/bwipp/posicode.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/postnet.js" afterPath="$PROJECT_DIR$/bwipp/postnet.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/pzn.js" afterPath="$PROJECT_DIR$/bwipp/pzn.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/qrcode.js" afterPath="$PROJECT_DIR$/bwipp/qrcode.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/rationalizedCodabar.js" afterPath="$PROJECT_DIR$/bwipp/rationalizedCodabar.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/raw.js" afterPath="$PROJECT_DIR$/bwipp/raw.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/renlinear.js" afterPath="$PROJECT_DIR$/bwipp/renlinear.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/renmatrix.js" afterPath="$PROJECT_DIR$/bwipp/renmatrix.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/renmaximatrix.js" afterPath="$PROJECT_DIR$/bwipp/renmaximatrix.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/royalmail.js" afterPath="$PROJECT_DIR$/bwipp/royalmail.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/sscc18.js" afterPath="$PROJECT_DIR$/bwipp/sscc18.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/symbol.js" afterPath="$PROJECT_DIR$/bwipp/symbol.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/telepen.js" afterPath="$PROJECT_DIR$/bwipp/telepen.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/upca.js" afterPath="$PROJECT_DIR$/bwipp/upca.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/upcacomposite.js" afterPath="$PROJECT_DIR$/bwipp/upcacomposite.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/upce.js" afterPath="$PROJECT_DIR$/bwipp/upce.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/bwipp/upcecomposite.js" afterPath="$PROJECT_DIR$/bwipp/upcecomposite.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/fonts/ocrb10-01.js" afterPath="$PROJECT_DIR$/fonts/ocrb10-01.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/fonts/ocrb10-02.js" afterPath="$PROJECT_DIR$/fonts/ocrb10-02.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/fonts/ocrb10-03.js" afterPath="$PROJECT_DIR$/fonts/ocrb10-03.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/fonts/ocrb10-04.js" afterPath="$PROJECT_DIR$/fonts/ocrb10-04.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/fonts/ocrb10-05.js" afterPath="$PROJECT_DIR$/fonts/ocrb10-05.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/fonts/ocrb10-06.js" afterPath="$PROJECT_DIR$/fonts/ocrb10-06.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/fonts/ocrb10-07.js" afterPath="$PROJECT_DIR$/fonts/ocrb10-07.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/fonts/ocrb10-08.js" afterPath="$PROJECT_DIR$/fonts/ocrb10-08.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/fonts/ocrb10-09.js" afterPath="$PROJECT_DIR$/fonts/ocrb10-09.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/fonts/ocrb10-10.js" afterPath="$PROJECT_DIR$/fonts/ocrb10-10.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/fonts/ocrb12-01.js" afterPath="$PROJECT_DIR$/fonts/ocrb12-01.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/fonts/ocrb12-02.js" afterPath="$PROJECT_DIR$/fonts/ocrb12-02.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/fonts/ocrb12-03.js" afterPath="$PROJECT_DIR$/fonts/ocrb12-03.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/fonts/ocrb12-04.js" afterPath="$PROJECT_DIR$/fonts/ocrb12-04.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/fonts/ocrb12-05.js" afterPath="$PROJECT_DIR$/fonts/ocrb12-05.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/fonts/ocrb12-06.js" afterPath="$PROJECT_DIR$/fonts/ocrb12-06.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/fonts/ocrb12-07.js" afterPath="$PROJECT_DIR$/fonts/ocrb12-07.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/fonts/ocrb12-08.js" afterPath="$PROJECT_DIR$/fonts/ocrb12-08.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/fonts/ocrb12-09.js" afterPath="$PROJECT_DIR$/fonts/ocrb12-09.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/fonts/ocrb12-10.js" afterPath="$PROJECT_DIR$/fonts/ocrb12-10.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/lib/baropts.js" afterPath="$PROJECT_DIR$/lib/baropts.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/lib/canvas.js" afterPath="$PROJECT_DIR$/lib/canvas.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/lib/dn-arrow.gif" afterPath="$PROJECT_DIR$/lib/dn-arrow.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/lib/jquery-1.4.1.js" afterPath="$PROJECT_DIR$/lib/jquery-1.4.1.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/lib/needyoffset.js" afterPath="$PROJECT_DIR$/lib/needyoffset.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/lib/symdesc.js" afterPath="$PROJECT_DIR$/lib/symdesc.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bwip-js/lib/up-arrow.gif" afterPath="$PROJECT_DIR$/lib/up-arrow.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.js" afterPath="$PROJECT_DIR$/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="node-bwipjs-ng.iws" />
@@ -156,11 +38,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="index.js" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.22850925" vertical-offset="0" max-vertical-offset="919">
-                  <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+                <state vertical-scroll-proportion="0.2774755" vertical-offset="0" max-vertical-offset="919">
+                  <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
                   <folding>
                     <element signature="e#0#38#0" expanded="false" />
                   </folding>
@@ -172,7 +54,7 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="package.json" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/package.json">
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="919">
@@ -352,14 +234,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="27" width="1922" height="1054" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22291666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22291666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -422,21 +304,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22850925" vertical-offset="0" max-vertical-offset="919">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#38#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="450">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2774755" vertical-offset="0" max-vertical-offset="919">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#38#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
