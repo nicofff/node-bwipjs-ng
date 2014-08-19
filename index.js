@@ -53,7 +53,7 @@ module.exports.createBarcode = function (text, callback){
     bw.scale(1, 1);
     bw.push(text);
     bw.push(opts);
-    bw.call("interleaved2of5");
+    bw.call(__dirname+"/bwipp/interleaved2of5");
     var png = bw.bitmap().getPNG(rot);
     callback(png);
 
