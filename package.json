@@ -1,6 +1,6 @@
 {
   "name": "node-bwipjs-ng",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Node module implamentation of bwip-js",
   "main": "index.js",
   "scripts": {
