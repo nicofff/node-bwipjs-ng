@@ -4,6 +4,7 @@
 
 var url = require('url');
 var fs  = require('fs');
+var Bitmap =  require(__dirname+'/lib/bitmap.js');
 var vm  = require('vm');
 
 
@@ -18,6 +19,7 @@ function load(path) {
 
 // Load the primary bwip-js script
 load(__dirname+'/bwip.js');
+
 
 // Set the hook for demand-loading the remaining bwip-js files
 BWIPJS.load = load;
