@@ -17,7 +17,7 @@ function load(path) {
 }
 
 // Load the primary bwip-js script
-load(__dirname+'bwip.js');
+load(__dirname+'/bwip.js');
 
 // Set the hook for demand-loading the remaining bwip-js files
 BWIPJS.load = load;
